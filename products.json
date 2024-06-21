@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 51,
+      "name": "ASOS EDITION maxi dress with drawstring bust and cut out in pink",
+      "price": 95.00,
+      "image": "https://images.asos-media.com/products/asos-edition-maxi-dress-with-drawstring-bust-and-cut-out-in-pink/203952636-2?$n_320w$&wid=317&fit=constrain"
+    },
+    
+    {
+      "id": 52,
+      "name": "ASOS EDITION textured jersey boxy crop top and trouser in cream",
+      "price": 98.00,
+      "image": "https://images.asos-media.com/products/asos-edition-premium-boxy-crop-top-in-textured-jersey-in-cream/204819039-1-cream?$n_320w$&wid=317&fit=constrain"
+    },
+    
+    {
+      "id": 53,
+      "name": "ASOS EDITION premium boxy crop top in textured jersey in cream",
+      "price": 42.00,
+      "image": "https://images.asos-media.com/products/asos-edition-premium-boxy-crop-top-in-textured-jersey-in-cream/204819039-2?$n_320w$&wid=317&fit=constrain"
+    }
+  ]
+}

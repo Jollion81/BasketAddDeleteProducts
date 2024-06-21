@@ -1,0 +1,10 @@
+.target {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+}
+
+.product {
+    display: flex;
+    flex-direction: column;
+}
